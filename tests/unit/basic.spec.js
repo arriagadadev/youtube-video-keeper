@@ -8,12 +8,3 @@ describe("LinkAdder.vue", () => {
   });
 });
 
-/* describe("HelloWorld.vue", () => {
-  it("renders home page", () => {
-    const msg = "new message";
-    const wrapper = shallowMount(Home, {
-      propsData: { msg },
-    });
-    expect(wrapper.text()).toMatch(msg);
-  });
-}); */
