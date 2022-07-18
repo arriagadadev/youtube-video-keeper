@@ -13,7 +13,7 @@
         </div>
         <div class="video-description">
           <h5>{{ video.title }}</h5>
-          <p>{{ video.description }}</p>
+          <pre>{{ video.description }}</pre>
         </div>
       </div>
       <v-btn @click="close" class="close-button" fab small text>
